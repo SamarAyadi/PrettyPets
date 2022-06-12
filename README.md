@@ -2,7 +2,7 @@
 
 <h2 dir="rtl"> عن المشروع</h2>
 
-<img src="" alt="pretty pet screenshot demo" />
+<img src="https://github.com/SamarAyadi/PrettyPets/blob/main/images/demo.png" alt="pretty pet screenshot demo" />
 
 <h3 dir="rtl"> نبذة عن المشروع:</h3>
 
